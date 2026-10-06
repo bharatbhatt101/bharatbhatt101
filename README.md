@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatbhatt101&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbhatt101" /> </p>
 
-# <a href="https://bharatbhatt101.github.io/javaprogram/">My Project</a>
 # <a href="https://bharatbhatt101.github.io/portfolio/">Portfolio</a>
 # 📫 Connect with me:
 <a href="mailto: bharatbhatt2003bk@gmail.com" target="_blank">
